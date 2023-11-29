@@ -1,0 +1,8 @@
+• Integrate and manage the Data warehouse of SimpledCard from Various Sources like Twinfield, ExactOnline, AgileCRM, Moneybird, Global Processing Service (GPS), Google Analytics.
+• Synchronize database to Data warehouse. 
+• Automate existing Systems like Invoicing and email verification.
+• Developing, testing and deploying various ETL jobs.
+• Design and enhance ETL programs and processes using Pentaho.
+• Used different types of input and output steps for various data sources including Tables, Access, Text File, Excel and CSV files.
+• Used different transformations in PDI designer to cleanse and manipulate source data e.g. Database Lookup & Join, Generate rows, Calculator, Row normalizer & denormalizers, Java Script, Add constant, Add Sequence etc.
+• Create, maintain, and monitor Pentaho Jobs.
